@@ -1,2 +1,2 @@
 main branch testing file successfully
-conflick test only
+Conflict dedection test 
