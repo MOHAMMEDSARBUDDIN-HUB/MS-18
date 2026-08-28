@@ -60,7 +60,8 @@
      margin-top:12px;
     }
 details{
-      padding-left:12p;
+      padding-left:12px;
+      cursor:pointer;
      }
 
   
