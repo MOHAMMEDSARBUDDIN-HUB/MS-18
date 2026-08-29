@@ -11,7 +11,7 @@
 .clr1{
    color:aliceblue;
    display:inline-block;
-     }
+    }
      
 .clr2{
    color:burlywood;
@@ -28,6 +28,7 @@
 .heading2{
            background-color:white; 
            display:flex;
+           
          }
 
 .home{
@@ -38,6 +39,7 @@
       width: 80px;
       padding-left: 30px;
       padding-right:15px;
+    
      }
      
 .midpara{
@@ -47,22 +49,76 @@
         }
 
 .menu{
+      
       display:inline-block;
       background-color:aquamarine;
       padding: 20px;
       margin-left:auto;
+      position:absolute;
+      top: 68px;
+      right:0;
+      
      }
 
 .log{
      margin-top: 20px;
+     cursor:pointer;
     }
+
 .more{
      margin-top:12px;
+     cursor:pointer;
     }
+
 details{
       padding-left:12px;
-      cursor:pointer;
+       }
+
+summary{
+     cursor:pointer;
+       }
+
+.topline{
+      width: 100%;
+     height:8px;
+     background-color:dimgrey;
+        }
+
+
+
+.uper{
+     background-color:white;
      }
+     
+
+.leather{
+        display:inline-block;
+         border: 3px solid black;
+         border-radius:10px;
+         padding:10px;
+       }
+img{
+     width: 500px;
+     height: 350px;
+     }
+
+.leather{
+        margin-top:4%;
+        margin-left:35%;
+        }
+.center{
+      margin-left:13px ;
+      margin-top:5%;
+      margin-bottom:2%;
+       }
+ 
+.botomline{
+     width: 100%;
+     height:8px;
+     background-color:dimgrey;
+     margin-top:4%;
+}
+
 
   
 
