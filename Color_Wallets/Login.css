@@ -1,6 +1,6 @@
 *{
   margin: 0;
-  padding: 0;
+  
  }
 
  .heading{
@@ -26,28 +26,30 @@
      }
 
 .heading2{
-           background-color:white; 
-           display:flex;
+           background-color:white;
+           display:flex; 
+   
            
          }
-
+.rd1{
+  text-decoration:none;
+     }
 .home{
-      display:inline-block;
+       display:inline-block;
       background-color:aquamarine;
       padding: 20px;
       color:black;
       width: 80px;
       padding-left: 30px;
       padding-right:15px;
-    
-     }
+    }
      
 .midpara{
       display:inline-block;
       padding: 20px;
       margin-left:32% ;
       margin-top:100px;
-      color:cadetblue
+      color:cadetblue;
         }
 
 .menu{
@@ -61,6 +63,11 @@
       right:0;
       
      }
+
+.log{
+     margin-top: 20px;
+     cursor:pointer;
+    }
 
 .more{
      margin-top:12px;
@@ -104,3 +111,64 @@ summary{
     padding-left:110px;
     background-color:aquamarine;
     }
+ 
+.Enter{
+        font-size: 20px;
+      }
+
+.lr{
+      color:black;
+      text-decoration:none;
+    }
+.from{
+       border-radius:10px;
+       border:2px solid black;
+       display:inline-block;
+       padding: 40px;
+       padding-bottom:80px;
+       background-color:azure;
+       margin-left:37%;
+       margin-top:2%;  
+     }
+
+.lp3{
+     margin-top: 30px;
+  
+  
+
+    }
+
+    .lp2{
+     padding:6px;
+     margin-top:8px;
+    }
+
+.lp4{ 
+      font-size:25px;
+      width:30%;
+      padding:4px;
+      border-radius:5px;
+      margin-left:33%;
+      margin-top:12%;
+      color:dimgrey;
+      background-color:aqua;
+    }
+.lp5{
+      padding-top:50px;
+    }
+
+.lp6{
+      padding-top:10px;    
+    }
+
+.select1 
+         {
+            padding:6px;
+            margin-top:2px;
+         }
+
+.spaceperp
+          {
+            height:180px;
+          }
+

@@ -1,0 +1,65 @@
+
+.div1
+    {
+        background-color:blue;
+        padding:1%;
+        border-radius:20px;
+    }
+        
+
+.div-1
+     {
+        background-color:cadetblue;
+        border-radius:20px;
+        display:inline-block;
+        width:22%;
+        text-align:center;
+        margin-right:27%;
+       
+      
+        
+
+     }
+
+.div-2
+     {
+        background-color:chartreuse;
+        border-radius:20px;
+         display:inline-block;
+        width:22%;
+        text-align:center;
+        margin-left:28.6%;
+
+        
+
+     }
+
+.box1
+    {
+        background-color: bisque;
+        display:inline-block;
+        padding-right:5%;
+        padding-left:5%;
+        margin-right:5%;
+        margin-left:5%;
+        border-radius:10px;
+        
+
+        
+        
+    }
+
+.box2
+    {
+        background-color:bisque;
+        display:inline-block;
+        padding-right:5%;
+        padding-left:5%;
+        margin-right:5%;
+        margin-left:5%;
+        border-radius:10px;
+     
+    }
+
+
+
