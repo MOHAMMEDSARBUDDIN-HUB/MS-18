@@ -1,0 +1,31 @@
+.master1 
+         {
+            background-color:beige;
+            display:flex;
+            flex-wrap:wrap;
+            justify-content: space-between;
+            padding:20px;
+           
+         }
+
+.he1
+     {
+        background-color:black;
+        color:white;        
+        padding:40px;
+        padding-right:80px;
+     }
+
+.he2 
+     {
+        background-color:blue;
+        padding:40px;
+        padding-right:80px;
+     }
+
+.he3
+     {
+        background-color:red;
+        padding:40px;
+        padding-right:80px;
+     }
